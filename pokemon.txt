@@ -1,0 +1,29 @@
+Resource test passed!
+{
+  "name": "charizard",
+  "id": 6,
+  "height": 17,
+  "weight": 905,
+  "types": [
+    "fire",
+    "flying"
+  ],
+  "stats": {
+    "hp": 78,
+    "attack": 84,
+    "defense": 78,
+    "special-attack": 109,
+    "special-defense": 85,
+    "speed": 100
+  },
+  "abilities": [
+    "blaze",
+    "solar-power"
+  ],
+  "moves": [
+    {
+      "name": "mega-punch",
+      "type": "normal",
+      "power": 80,
+    }]
+    }
